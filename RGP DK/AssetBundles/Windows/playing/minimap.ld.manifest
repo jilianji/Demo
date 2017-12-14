@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1891165282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16876a9de562b44dcdb4ff2f34b90a67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53aea2b44df752706c84e9d6b7cb0ef2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/Playing/MiniMap/MiniMapPanel.prefab
+Dependencies:
+- E:/RGP DK/AssetBundles/Windows/playing/textures.ld

@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: HeadStatusUI.png (1008 x 616)
+# $TexturePacker:SmartUpdate:035d79a249089a3ee81aabf090983cf5:a01e0c8b2dba506536377e39c156d0d8:d8449d367253005e2a322c3da99f5d2b$
+#
+
+Bar-enemy;2;89;576;83;0.5;0.5
+Bar-exp;2;514;711;49;0.5;0.5
+Bar-frame-inv;2;174;576;83;0.5;0.5
+Bar-frame;2;259;576;83;0.5;0.5
+Bar-hp;2;344;576;83;0.5;0.5
+Bar-mp;2;429;576;83;0.5;0.5
+bar-cast;2;3;417;41;0.5;0.5
+bar-castframe;2;46;417;41;0.5;0.5
+bar-expframe;2;565;711;49;0.5;0.5
+frame-face;580;20;225;211;0.5;0.5
+frame-minimap;580;233;319;279;0.5;0.5
+infoname;807;165;197;66;0.5;0.5
+mapname;715;542;291;72;0.5;0.5

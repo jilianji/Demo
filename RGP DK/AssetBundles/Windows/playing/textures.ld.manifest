@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1177387441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01447345cfe8ddb2912843db4c164f20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d95384f68dd6bacb5bd681158ca8adfb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/Playing/Textures/Shader/CharacterShader.shader
+- Assets/Art/Scences/Playing/Textures/Bar_Texture.jpg
+- Assets/Art/Scences/Playing/Textures/HeadImg/MagicianHead.png
+- Assets/Art/Scences/Playing/Textures/HeadImg/magicianHeadMat.mat
+- Assets/Art/Scences/Playing/Textures/ObjectsInfoList.txt
+- Assets/Art/Scences/Playing/Textures/MiniMap/MapMaterial.mat
+- Assets/Art/Scences/Playing/Textures/Potion_Texture.jpg
+- Assets/Art/Scences/Playing/Textures/State.tpsheet
+- Assets/Art/Scences/Playing/Textures/MiniMap/MiniMap.png
+- Assets/Art/Scences/Playing/Textures/HeadImg/HeadStatusUI.tpsheet
+- Assets/Art/Scences/Playing/Textures/Shader/Transparent_Outline.shader
+- Assets/Art/Scences/Playing/Textures/Shader/MaskShader.shader
+- Assets/Art/Scences/Playing/Textures/State.png
+- Assets/Art/Scences/Playing/Textures/MiniMap/MiniMapMaterial.mat
+- Assets/Art/Scences/Playing/Textures/MiniMap/MiniMap.tpsheet
+- Assets/Art/Scences/Playing/Textures/HeadImg/HeadStatusUI.png
+- Assets/Art/Scences/Playing/Textures/MiniMap/Map2.png
+- Assets/Art/Scences/Playing/Textures/Shader/Mask.tga
+- Assets/Art/Scences/Playing/Textures/MiniMap/Map.png
+- Assets/Art/Scences/Playing/Textures/Weapon_Texture.jpg
+- Assets/Art/Scences/Playing/Textures/HeadImg/HeadStatusMaterial.mat
+- Assets/Art/Scences/Playing/Textures/HeadImg/swordmanHeadMat.mat
+- Assets/Art/Scences/Playing/Textures/SkillsInfoList.txt
+- Assets/Art/Scences/Playing/Textures/HeadImg/SwordmanHead.png
+Dependencies: []

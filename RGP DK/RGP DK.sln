@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGP DK", "Assembly-CSharp.csproj", "{DD82E228-E241-D720-796A-695A86F4298D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGP DK", "Assembly-CSharp-Editor.csproj", "{54DB09CC-FAF9-FB3E-1A1A-37ABF05EC904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD82E228-E241-D720-796A-695A86F4298D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD82E228-E241-D720-796A-695A86F4298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD82E228-E241-D720-796A-695A86F4298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD82E228-E241-D720-796A-695A86F4298D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DB09CC-FAF9-FB3E-1A1A-37ABF05EC904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DB09CC-FAF9-FB3E-1A1A-37ABF05EC904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DB09CC-FAF9-FB3E-1A1A-37ABF05EC904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DB09CC-FAF9-FB3E-1A1A-37ABF05EC904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

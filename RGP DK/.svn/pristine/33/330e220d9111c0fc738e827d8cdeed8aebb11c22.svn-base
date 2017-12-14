@@ -1,0 +1,23 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Art/Scences/ChooseRole/Textures/CharacterCreation.tpsheet
+- Assets/Art/Scences/EnterGame/Loding.tpsheet
+- Assets/Resources/UI/Friend/Fried.tpsheet
+- Assets/SuCai/Loding.tpsheet
+- Assets/UI/Friend.tpsheet
+textureFileNames:
+- Assets/Art/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Art/Scences/ChooseRole/Textures/CharacterCreation.png
+- Assets/Art/Scences/EnterGame/Loding.png
+- Assets/Resources/UI/Friend/Fried.png
+- Assets/SuCai/Loding.png
+- Assets/UI/Friend.png
+normalmapFileNames:
+- Assets/Art/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 

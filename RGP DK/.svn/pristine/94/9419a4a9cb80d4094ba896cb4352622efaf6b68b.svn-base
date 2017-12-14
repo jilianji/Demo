@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: MiniMap.png (388 x 496)
+# $TexturePacker:SmartUpdate:8e787ac6a8b614b4ad62cf68ff526687:23072b125b9846776965782913b5c0a3:0513fa65e533688aa3b99cdc6a3da751$
+#
+
+frame-face;2;2;225;211;0.5;0.5
+frame-minimap;2;215;319;279;0.5;0.5
+minimap-zoomin-down;307;59;76;76;0.5;0.5
+minimap-zoomin;229;59;76;76;0.5;0.5
+minimap-zoomout-down;307;137;76;76;0.5;0.5
+minimap-zoomout;229;137;76;76;0.5;0.5

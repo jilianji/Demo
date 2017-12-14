@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 827610917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 832b3107ca4d777ec415c6d624eb2ff9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d588f5daf20281ef80c1cff50ba47de
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/Swordman_Animation.FBX
+- Assets/Art/Scences/ChooseRole/Roles/Swordman_idle.prefab
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Magician/Mage_Texture.jpg
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/sword_Texture02.jpg
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/Materials/sword_Texture.mat
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Magician/Materials/Mage_Texture.mat
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/Swordman_Animation.txt
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Magician/Magician_Animation.FBX
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/Materials/sword_Texture2.mat
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Magician/Magician_No_Animation.FBX
+- Assets/Art/Scences/ChooseRole/Roles/Magician_idle.prefab
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/Swordman_No_Animation.FBX
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Swordman/sword_Texture.jpg
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Magician/Materials/Mage_Texture2.mat
+- Assets/Art/Scences/ChooseRole/Roles/Model Character/Magician/Magician_Animation.txt
+Dependencies: []

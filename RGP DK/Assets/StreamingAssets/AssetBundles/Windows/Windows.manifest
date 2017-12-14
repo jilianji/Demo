@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 4074852211
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: entergame/login.ld
+      Dependencies:
+        Dependency_0: entergame/textures.ld
+    Info_1:
+      Name: entergame/signin.ld
+      Dependencies:
+        Dependency_0: entergame/textures.ld
+    Info_2:
+      Name: playing/textures.ld
+      Dependencies: {}
+    Info_3:
+      Name: chooserole/textures.ld
+      Dependencies: {}
+    Info_4:
+      Name: entergame/textures.ld
+      Dependencies: {}
+    Info_5:
+      Name: chooserole/roles.ld
+      Dependencies: {}
+    Info_6:
+      Name: playing/ui.ld
+      Dependencies:
+        Dependency_0: playing/textures.ld
+    Info_7:
+      Name: playing/minimap.ld
+      Dependencies:
+        Dependency_0: playing/textures.ld
+    Info_8:
+      Name: playing/headstatus.ld
+      Dependencies:
+        Dependency_0: playing/textures.ld
+    Info_9:
+      Name: playing/skillui.ld
+      Dependencies:
+        Dependency_0: playing/textures.ld
+    Info_10:
+      Name: playing/npc.ld
+      Dependencies: {}
+    Info_11:
+      Name: playing/shopui.ld
+      Dependencies:
+        Dependency_0: playing/textures.ld
+    Info_12:
+      Name: chooserole/charactercreation.ld
+      Dependencies:
+        Dependency_0: chooserole/textures.ld
